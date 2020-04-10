@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "focus-visible": "./focus-visible.js",
+    "svelte-mui": "./svelte-mui.js",
+    "svelte-spa-router": "./svelte-spa-router.js",
+    "svelte/internal": "./svelte/internal.js"
+  }
+}
